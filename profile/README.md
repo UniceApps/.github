@@ -3,7 +3,13 @@
   <h2 align="center">UniceApps</h2>
 
 ## Suspension des services UniceAPI / UniceNotes
-À la demande de la direction de l'IUT, UniceNotes a malheureusement dû fermer ses portes.
+À la demande de la direction de l'IUT, UniceNotes a malheureusement dû limiter ses fonctionnalités.
+
+| Fonctionnalité | Status |
+|----|----|
+| Notes | INDISPONIBLE ❌ |
+| Absences | INDISPONIBLE ❌ |
+| Emploi du temps | DISPONIBLE ✅ |
 
 En revanche, vous pouvez vous-même héberger gratuitement votre UniceAPI et donc, utiliser UniceNotes.
 
