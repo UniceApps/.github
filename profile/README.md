@@ -7,11 +7,13 @@
 
 | Fonctionnalité | Status |
 |----|----|
-| Notes | INDISPONIBLE ❌ |
-| Absences | INDISPONIBLE ❌ |
+| Notes | RESTREINT ⚠️ |
+| Absences | RESTREINT ⚠️ |
 | Emploi du temps | DISPONIBLE ✅ |
 
-En revanche, vous pouvez vous-même héberger gratuitement votre UniceAPI et donc, utiliser UniceNotes.
+Pour demander votre accès gratuit à UniceNotes (et ainsi lever la limitation pour votre compte uniquement), veuillez remplir [ce formulaire (notes.metrixmedia.fr/access)](https://notes.metrixmedia.fr/access).
+
+De plus, vous pouvez vous-même héberger gratuitement votre UniceAPI et donc, utiliser UniceNotes.
 
 ## Comment faire ?
 
