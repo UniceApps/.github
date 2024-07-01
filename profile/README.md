@@ -15,14 +15,11 @@ Pour demander votre accès gratuit à UniceNotes (et ainsi lever la limitation p
 
 De plus, vous pouvez vous-même héberger gratuitement votre UniceAPI et donc, utiliser UniceNotes.
 
-## Comment faire ?
+#### [Télécharger l'application UniceNotes pour iOS/Android](https://notes.metrixmedia.fr/get)
+
+## Comment faire pour héberger mon UniceAPI ?
 
 Tout d'abord, le client UniceNotes sera toujours disponible sur l'App Store et le Google Play Store.
-
-#### [Télécharger l'application](https://notes.metrixmedia.fr/get)
-
-> [!WARNING]
-> Le client UniceNotes ne sera plus maintenu et aucune mise à jour ne sera effectuée.
 
 Ensuite, veuillez suivre les instructions sur le repository GitHub UniceAPI dédié :
 
