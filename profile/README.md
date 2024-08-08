@@ -2,18 +2,14 @@
       <img alt="UniceNotes" height="100" src="https://raw.githubusercontent.com/UniceApps/UniceNotes/main/.docs/assets/logo.png">
   <h2 align="center">UniceApps</h2>
 
-## Suspension des services UniceAPI / UniceNotes
-À la demande de la direction de l'IUT, UniceNotes a malheureusement dû limiter ses fonctionnalités.
-
+## État des services UniceAPI / UniceNotes
 | Fonctionnalité | Status |
 |----|----|
-| Notes | RESTREINT ⚠️ |
-| Absences | RESTREINT ⚠️ |
+| Notes | DISPONIBLE ✅ |
+| Absences | DISPONIBLE ✅ |
 | Emploi du temps | DISPONIBLE ✅ |
 
-Pour demander votre accès gratuit à UniceNotes (et ainsi lever la limitation pour votre compte uniquement), veuillez remplir [ce formulaire (notes.metrixmedia.fr/access)](https://notes.metrixmedia.fr/access).
-
-De plus, vous pouvez vous-même héberger gratuitement votre UniceAPI et donc, utiliser UniceNotes.
+Vous pouvez vous-même héberger gratuitement votre UniceAPI et donc, utiliser UniceNotes.
 
 #### [Télécharger l'application UniceNotes pour iOS/Android](https://notes.metrixmedia.fr/get)
 
