@@ -2,13 +2,6 @@
       <img alt="UniceNotes" height="100" src="https://raw.githubusercontent.com/UniceApps/UniceNotes/main/.docs/assets/logo.png">
   <h2 align="center">UniceApps</h2>
 
-## État des services UniceAPI / UniceNotes
-| Fonctionnalité | Status |
-|----|----|
-| Notes | DISPONIBLE ✅ |
-| Absences | DISPONIBLE ✅ |
-| Emploi du temps | DISPONIBLE ✅ |
-
 Vous pouvez vous-même héberger gratuitement votre UniceAPI et donc, utiliser UniceNotes.
 
 #### [Télécharger l'application UniceNotes pour iOS/Android](https://notes.metrixmedia.fr/get)
